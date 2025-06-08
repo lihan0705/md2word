@@ -1,4 +1,8 @@
-# Markdown to Word 转换工具
+# Noah 文档转换系统
+
+欢迎使用 Noah，这是一个基于 Python 和 FastAPI 构建的强大且灵活的文档转换系统。Noah 旨在高效地将 Markdown 文件转换为各种格式，首先支持 DOCX。它采用健壮的面向服务架构，确保了系统的可维护性、可扩展性和可测试性。
+
+要详细了解系统的架构，包括组件图和请求流程，请参阅 <mcfile name="ARCHITECTURE.md" path="app/ARCHITECTURE.md"></mcfile> 文档。
 
 ## 文件说明
 
