@@ -1,0 +1,6 @@
+任务：创建一个函数，将大模型输出的md格式文本转换成word文件，并将md中的vega/mermaid格式图片存成图片文件（如果可以，把图片嵌入word对应位置）
+
+输入：示例md文件 example.md
+输出：md文本对应的word文件与vega/mermaid的图片文件，或含图片的word文件
+
+交付：含有该函数的python文件
